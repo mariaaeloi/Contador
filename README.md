@@ -1,2 +1,3 @@
-# Contador
-Projeto referente ao curso JavaScript
+# Contador utilizando JavaScript
+
+Projeto referente ao curso "Introdução ao JavaScript" pela Digital Innovation One.
